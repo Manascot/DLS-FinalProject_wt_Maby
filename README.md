@@ -162,12 +162,6 @@ This is the model used by src/controller.py.
 Checkpoint filename: policy_checkpoint.pth
 
 Download link:
-https://your-storage-link-here.com/path/to/policy_checkpoint.pth
+[https://your-storage-link-here.com/path/to/policy_checkpoint.pth](https://drive.google.com/drive/folders/1A8-LHTKUhYz2iqSPYrfrYeZFEQrTEDhm?usp=sharing)
 
 
-
-This README section, and
-
-The MODEL_URL constant in src/controller.py, e.g.:
-
-MODEL_URL = "https://your-storage-link-here.com/path/to/policy_checkpoint.pth"
